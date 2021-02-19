@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<target>
+  <host addr="192.168.225.35">
+    <hostname>WIN-5J0PUMQMVOL</hostname>
+    <storageid descr="C:\">1</storageid>
+    <storageid descr="D:\">2</storageid>
+    <physicalmemid>5</physicalmemid>
+  </host>
+  <host addr="192.168.225.29">
+    <hostname>localhost.localdomain</hostname>
+    <physicalmemid>1</physicalmemid>
+    <storageid descr="/">31</storageid>
+    <buffersid>6</buffersid>
+    <cachedid>7</cachedid>
+    <sharedid>8</sharedid>
+    <swapid>10</swapid>
+  </host>
+</target>
